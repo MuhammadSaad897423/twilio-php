@@ -8,3 +8,4 @@ contact_links:
   - name: Documentation
     url: https://www.twilio.com/docs/libraries/reference/twilio-php
     about: View Reference Documentation
+  url: https://www.twilio.com/docs/libraries/reference/twilio-php-php
